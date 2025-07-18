@@ -22,7 +22,7 @@ The goal is simplicity, responsiveness, and ease of customization.
 ## 🚀 Live Demo
 
 Check out the site here: **[https://lakshyajoshii.github.io/404](https://lakshyajoshii.github.io/404)**  
-(Once the repo is public and GitHub Pages is enabled)
+
 
 ---
 
