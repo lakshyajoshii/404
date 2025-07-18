@@ -5,17 +5,6 @@ This site is built using HTML, CSS, and JavaScript to showcase my projects, skil
 
 > 🔧 This repository is open to contributions and pull requests. Feel free to fork, improve, and help make this portfolio even better!
 
----
-
-## 🔍 Overview
-
-This is a minimal yet modern portfolio site built to:
-
-- Showcase development and project work
-- Highlight skills and achievements
-- Serve as a professional web presence
-
-The goal is simplicity, responsiveness, and ease of customization.
 
 ---
 
