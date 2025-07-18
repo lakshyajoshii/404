@@ -31,7 +31,4 @@ Check out the site here: **[https://lakshyajoshii.github.io/404](https://lakshya
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
 └── README.md
