@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #0e0e0e;
+  color: #fff;
+  font-family: 'Orbitron', sans-serif;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.container {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.robot {
+  position: relative;
+  margin: 0 auto 30px;
+  width: 120px;
+  height: 120px;
+  background: #3e3e3e;
+  border-radius: 15px;
+}
+
+.eye {
+  width: 20px;
+  height: 20px;
+  background: #fff;
+  border-radius: 50%;
+  position: absolute;
+  top: 40px;
+}
+
+.left-eye {
+  left: 25px;
+}
+
+.right-eye {
+  right: 25px;
+}
+
+.antenna {
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 5px;
+  height: 30px;
+  background: #ff3c3c;
+  border-radius: 10px;
+}
+
+.text h1 {
+  font-size: 64px;
+  margin-bottom: 10px;
+}
+
+.text p {
+  font-size: 18px;
+  color: #aaa;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 30px;
+  background: #ff3c3c;
+  color: white;
+  text-decoration: none;
+  border-radius: 25px;
+  transition: background 0.3s ease;
+}
+
+.button:hover {
+  background: #e82e2e;
+}
